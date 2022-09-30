@@ -1,0 +1,249 @@
+
+body {
+    padding-top: 0;
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    overflow-y: overlay;
+}
+
+.navbar-nav {
+    font-size: .9rem;
+}
+
+a.active .nav_link.active {
+    color: #0c63ff;
+}
+
+.navbar-brand img {
+    height: 3rem;
+    width: auto;
+}
+
+
+.navbar {
+    min-height: 85px;
+}
+
+.top-content {
+    align-items: center;
+}
+
+.col-sm-10 .top-img {
+    width: 445px;
+    height: 296px;
+
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.top-btn {
+    padding: 2% 4%;
+    margin-top: 15%;
+}
+
+.mid-pics {
+    border: 1px solid #e5e7ea;
+    width: 360px;
+}
+
+.navbar>.container {
+    display: block;
+}
+
+.nav-row {
+    flex-wrap: wrap;
+}
+
+div .nav-col {
+    display: flex;
+    align-items: center;
+}
+
+
+#background{
+    position: relative;
+    height: 200px;
+    background-color: rgb(13,110,253);
+}
+
+#header_bottom {
+    height: 486px;
+}
+
+.img-title {
+    margin-top: 20px
+}
+
+h4 {
+    font-weight: 600;
+}
+
+.txt-title {
+    margin-bottom: 2rem;
+    color: #87909e;
+}
+
+.top-mid-img {
+    margin-top: -50px;
+}
+
+@media (min-width: 1200px) {
+    .navbar>.container {
+        max-width: 1140px;
+    }
+}
+
+.link-list {
+    border-radius: 1px;
+}
+
+.list-title-two {
+    display: flex;
+}
+
+.nav-link-two {
+    display: flex;
+    border-right: white;
+    background-color: #0d6efd;
+    color: #ffffff;
+    border-top: #87909e;
+    border-bottom: #87909e;
+}
+
+.nav-link-two:focus {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.nav-img-size {
+    width: 64px;
+}
+
+.nav-img-size:focus {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+#twenty-font {
+    font-size: 20px;
+}
+
+.pic-title{
+    margin-top: 10%;
+}
+
+.pic-title p {
+    color: #87909e;
+}
+
+.btm-cont {
+    background-image: url("https://2577343.fs1.hubspotusercontent-na1.net/hub/2577343/hubfs/Brand2Files/Untitled%20design%20%2829%29.png?width=2880&name=Untitled%20design%20%2829%29.png");
+    background-size: cover;
+    background-position: center;
+    margin-top: -11%;
+}
+
+.btm-bg-img {
+    max-width: 100%;
+    height: auto;
+    padding-top: 13%;
+    margin-bottom: 4%;
+}
+
+.btm-txt {
+    margin-top: 2%;
+}
+
+.bespoke-txt {
+    color: #87909e;
+}
+
+.space-img {
+    display: flex;
+    gap: 30px;
+}
+
+footer .container {
+    display: flex;
+}
+
+.remove-bullet  {
+    list-style-type: none;
+    white-space: nowrap;
+}
+
+.footer-links {
+    color: #87909e;
+    font-size: 14px;
+}
+
+.footer-links-header {
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.space-links {
+    gap: 30px;
+}
+
+.space-top {
+    margin-top: 8%;
+}
+
+.flex {
+    display: flex;
+}
+
+.line {
+    border-bottom-style: solid;
+    border-width: thin;
+    border-color: #87909e;
+    margin-left: 13%;
+    margin-right: 9%;
+}
+
+.copyright {
+    font-size: 13px;
+    color: #87909e;
+}
+
+#talent-txt {
+    color: #0c63ff;
+}
+
+.first-row {
+    padding: 12% 0 13% 0;
+}
+
+#about_background {
+    height: 45px;
+    margin-bottom: 40px;
+    background-color: rgb(13,110,253);
+}
+
+.first-row p, .first-row h1 {
+    text-align: center;
+}
+
+.second-row h3 {
+    font-weight: 600;
+}
+
+.second-row p {
+    color: #87909e;
+}
+
+.second-container {
+    margin-top: 8%;
+    margin-bottom: 7%;
+}
+
+.nav-link:hover {
+    color: #0c63ff;
+}
+
+
